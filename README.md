@@ -43,8 +43,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya-r-tech&show_icons=true&theme=rose_pine&hide_border=true&title_color=eb6f92" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-r-tech&layout=compact&theme=rose_pine&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arya-r-tech&show_icons=true&theme=rose_pine&hude_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-r-tech&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
 </p>
 
 ---
